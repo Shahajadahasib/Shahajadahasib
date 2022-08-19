@@ -27,18 +27,26 @@
 
 <br>
 
-<table>
+<table align = center>
 <tbody>
-<a href="https://github.com/Shahajadahasib">
+  <tr>
+  <td>
+  
+  <a href="https://github.com/Shahajadahasib">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahajadahasib&theme=dark&hide_langs_below=1" />
 </a>
-</table>
+  
 
-
-
+  </td>
+      
+  <td>
  <a href="https://github.com/Shahajadahasib">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shahajadahasib&show_icons=true&theme=dark&line_height=27" alt="Shahajada Hasib's github stats"/>
 </a>
+ </td>
+</tr> 
+
+</table>
 
 <br>
 
