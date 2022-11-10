@@ -23,6 +23,13 @@
 - <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/coin.gif" width="20vw" /> **Fun fact:** My _smartness_ 💡 lies in my _laziness_ 😴 -->
 
 <br>
+<p align="center">
+
+ <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahajadahasib&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/>
+        </a>
+</p>
+
 
 <table align = center>
 
@@ -47,22 +54,8 @@
 
 </table>
 
-<br>
 
 
-<br>
-
-<p align="center">
-    <table align="center">
-        <tr>
-
- <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahajadahasib&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/>
-        </a>
-        </tr>
-   </table>
-</p>
-<br>
  
 <br>
 
