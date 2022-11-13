@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://daffodilvarsity.edu.bd//"> <b>Daffodil International University</b>, Dhaka,Bangladesh</a>.  
+    I am a 4th Year undergraduate student  from <a href="https://daffodilvarsity.edu.bd//"> <b>Daffodil International University</b>, Dhaka,Bangladesh</a>.  
     A budding <b>Web Developer</b> <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Developer.gif" width="30px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and her Skill <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Medal.gif" width="20px">
   </em>  
@@ -14,7 +14,7 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/wave.gif" width="20vw" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
+- <img alt="GIF" src="https://github.com/Shahajadahasib/assets/blob/master/wave.gif" width="20vw" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
 <!-- - <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
 - <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/headbang.gif" width="20vw" /> I’m _looking to collaborate_ on **python 🐍 projects**.
 - <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/Assets/hmm.gif" width="20vw" /> I’m _looking_ for _help_ with **wifi connection 🌐**
@@ -106,34 +106,4 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Shahajadahasib)
 
-<!-- # demo2
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-<table align = center>
-  <tr>
-    <td>
-          <img src="preview/1.png" width="300" height="650" />
-  </td>
-      <td>
-            <img src="preview/2.png" width="300" height="650" />
-  </td>
-
-  <td>
-            <img src="preview/3.png" width="300" height="650" />
-  </td>
-  </tr>
-    </table> -->
